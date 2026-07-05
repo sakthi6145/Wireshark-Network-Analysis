@@ -16,6 +16,9 @@ This project demonstrates the use of Wireshark for network traffic analysis and 
 * Wireshark
 * Windows 11
 * FTP Test Server (for educational purposes)
+  
+[Project_.FTP.Credential.Capture.using.Wireshark.pdf](https://github.com/user-attachments/files/29668596/Project_.FTP.Credential.Capture.using.Wireshark.pdf)
+
 
 ## Activities Performed
 
@@ -45,4 +48,3 @@ This project demonstrates the use of Wireshark for network traffic analysis and 
 This project provided practical experience in packet capture, traffic analysis, and protocol inspection using Wireshark. It also highlighted the security risks associated with unencrypted communication protocols and reinforced the importance of secure network practices.
 
 
-[Project_ FTP Credential Capture using Wireshark.pdf](https://github.com/user-attachments/files/28436783/Project_.FTP.Credential.Capture.using.Wireshark.pdf)
